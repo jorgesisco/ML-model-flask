@@ -1,0 +1,7 @@
+# pip install flask
+# pip install pickle
+# pip install numpy
+
+"""Pickle is used to export the trained model from jupyter notebooks and then we can use that
+file in our app.py folder where we integrate the input from index.html and then used it in the
+trained model"""
